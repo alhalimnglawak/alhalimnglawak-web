@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="Bootstrap, Landing page, Template, Business, Service">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Grayrids">
+    <title>Al Halim - Nglawak</title>
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="img/ah-ico.png" type="image/png">
+    <!-- Bootstrap CSS -->
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+    <!-- LineIcons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lineicons@3.0.0/dist/lineicons.min.css">
+
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+
+    <!-- Nivo Lightbox -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nivo-lightbox/1.3.1/nivo-lightbox.min.css">
+
+    <!-- Icon Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- Main CSS (replace with your hosted/main stylesheet or remove if unused) -->
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- Responsive CSS (replace with your hosted stylesheet or remove if unused) -->
+    <link rel="stylesheet" href="css/responsive.css">
+
+
+</head>
+
+<body>
+
+    <!-- Header Section Start -->
+    <header id="home" class="hero-area">
+        <div class="overlay">
+            <span></span>
+            <span></span>
+        </div>
+        <nav class="navbar navbar-expand-md fixed-top scrolling-navbar">
+            <div class="container">
+                <a href="index.html" class="navbar-brand"><img src="img/ah-logo.png" alt="" width="190px"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="bi bi-list"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav mr-auto w-100 justify-content-end">
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="#home">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="#tentang">Tentang</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="#visimisi">Visi & Misi</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="#kegiatan">Kegiatan</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="p-3">
+            <div class="row space-100">
+                <div class="col-lg-6 col-md-12 col-xs-12">
+                    <div class="contents">
+                        <h4 class="head-title">
+                            Pondok Pesantren Putra & Putri
+                        </h4>
+                        <br>
+                        <h2 class="head-title"><b>Al Halim Miftahul 'Ula</b></h2>
+                        <p>Nglawak, Kec. Kertosono, Kabupaten Nganjuk, Jawa Timur </p>
+                        <div class="header-button">
+                            <a href="https://rebrand.ly/slick-ud" rel="nofollow" target="_blank" class="btn btn-border-filled">Daftar Sekarang</a>
+                            <a href="https://rebrand.ly/slick-ud" rel="nofollow" target="_blank" class="btn btn-border page-scroll">Selengkapnya</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-xs-12 p-0">
+                    <div class="intro-img">
+                        <img src="img/bg-main2.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header Section End -->
+
+
+    <section id="tentang">
+        <div class="container mt-4 mb-4">
+
+            <div class="row">
+                <!-- Start Col -->
+                <div class="col-lg-6 col-md-12 pl-0 pt-70 pr-5 d-flex justify-content-center align-items-center">
+                    <div class="business-item-img">
+                        <img src="img/sejarah.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+                <!-- End Col -->
+                <!-- Start Col -->
+                <div class="col-lg-6 col-md-12 pl-4">
+                    <div class="business-item-info">
+                        <h3>Sejarah Singkat</h3>
+                        <p>Pondok Pesantren Putra-Putri Miftahul 'Ula Asrama Al-Halim didirikan pada tahun 1980-an oleh K.H. Djamaluddin Abdullah B.A. dan Ibu Nyai Hj. Muhsinah, tepatnya di Desa Nglawak, Kecamatan Kertosono, Kabupaten Nganjuk. Pondok ini merupakan salah satu bagian dari Pondok Pesantren Putra-Putri Miftahul 'Ula Nglawak yang didirikan oleh Al-Maghfurlah K.H. Abdul Fattah Jalalain. Pondok AL-Halim sangat tepat bagi santri yang ingin mendalami ilmu agama dan ilmu umum, baik yang bersifat formal maupun informal. Pond.Pes. Al-Halim berorientasi pada peletakan dasar keagamaan, budi pekerti luhur, ketrampilan hidup, dan keilmuan-keilmuan terkini, yang tidak meninggalkan haluan Ahlussunnah Wal Jama'ah (ASWAJA).</p>
+
+                        <!-- <a class="btn btn-common" href="#">download</a> -->
+                    </div>
+                </div>
+                <!-- End Col -->
+
+            </div>
+        </div>
+    </section>
+
+    <section id="visimisi" class="section">
+        <div class="container ">
+            <!-- Start Row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class=" section-header text-center">
+                        <h2 class="section-title">Visi</h2>
+                        <div class="desc-text mb-4">
+                            <p>Meningkatkan kualitas kehidupan
+                                manusia yang beriman, berilmu dan
+                                beramal, serta membentuk generasi
+                                muslim yang sholih/sholihah dan
+                                bertaqwa kepada Allah</p>
+                        </div>
+
+                        <h2 class="section-title mt-4">Misi</h2>
+                        <div class="desc-text">
+                            <ul>
+                                <li>
+                                    <p>1. Melestarikan tradisi keislaman Ahlu Sunnah Wal Jamaah (ASWAJA).</p>
+                                </li>
+                                <li>
+                                    <p>2. Mengembangkan ilmu pengetahuan dan ilmu agama.</p>
+                                </li>
+                                <li>
+                                    <p>3. Mempersiapkan generasi Islam dalam menghadapi tantangan global dengan keterampilan hidup yang memadai.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- Recent visimisi Section End -->
+
+    <section id="kegiatan" class="section">
+        <div class="container">
+            <!-- Start Row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="kegiatan-text section-header text-center">
+                        <div>
+                            <h2 class="section-title">Kegiatan Santri Pondok Pesantren Al-Halim Miftahul 'Ula</h2>
+                            <div class="desc-text">
+                                <p>Santri di Pondok Pesantren Al-Halim Miftahul 'Ula menjalani berbagai kegiatan yang bertujuan untuk meningkatkan pemahaman ilmu agama dan pengetahuan umum. Kegiatan ini meliputi pembelajaran kitab kuning, kajian Al-Qur'an, dan pelatihan dakwah.</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- End Row -->
+        <!-- Start Row -->
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/ngaji-kitab.JPG" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Ngaji Kitab Kuning/Kitab Weton</h5>
+                                Kegiatan ini adalah inti pembelajaran pesantren, di mana santri mempelajari kitab kuning dengan metode tradisional untuk memahami hukum dan nilai-nilai Islam.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/sorogan.JPG" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Al Qur'an (Sorogan) & Tahfidzul Qur'an</h5>
+                                Sorogan adalah metode belajar Al-Qur'an dengan santri membaca di hadapan guru untuk koreksi. Tahfidzul Qur'an adalah program menghafal Al-Qur'an.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/tahsin.JPG" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Tahsin Qur'an</h5>
+                                Program untuk memperbaiki bacaan Al-Qur'an sesuai dengan kaidah tajwid. Kegiatan ini bertujuan agar santri dapat membaca Al-Qur'an dengan benar dan indah.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/shawir-kitab.JPG" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Shawir Kitab</h5>
+                                Kegiatan diskusi bersama guru mengenai isi kitab yang telah dipelajari. Santri berdiskusi, bertanya, dan memperdalam pemahaman terhadap materi keagamaan.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Start Col -->
+
+                <!-- Start Col -->
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/diba.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Diba' dan Sholawat</h5>
+                                Membaca kitab Maulid Diba’ serta melantunkan sholawat kepada Nabi Muhammad SAW sebagai bentuk ekspresi cinta dan penghormatan kepada beliau.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Start Col -->
+
+                <!-- Start Col -->
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/kilatan.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Kegiatan Romadhon/Pengajian Kilatan</h5>
+                                Kegiatan khusus selama bulan Ramadhan atau kilatan. Santri mempelajari kitab dalam waktu singkat pada bulan Ramadhan.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Start Col -->
+
+                <!-- Start Col -->
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/istighotsah.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Tahlil dan Istighotsah</h5>
+                                Doa bersama untuk mendoakan para leluhur dan memohon perlindungan Allah SWT. Kegiatan ini dilakukan secara rutin sebagai bagian dari tradisi Ahlussunnah Wal Jama'ah.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/roan.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Ro'an/bersih-bersih</h5>
+                                Kegiatan gotong-royong membersihkan lingkungan pesantren. Selain menjaga kebersihan, kegiatan ini mengajarkan nilai-nilai kerja sama dan tanggung jawab.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-xs-12 mb-3">
+                    <div class="single-kegiatan">
+                        <div class="kegiatan-thumb">
+                            <img src="img/kegiatan/ziarah.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="kegiatan-details">
+                            <div class="kegiatan-social-icons">
+                                <ul class="social-list">
+                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                                    <li><a href="#"><i class="lni-google-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="kegiatan-inner text-center">
+                                <h5 class="kegiatan-title mb-2">Ziarah Makam</h5>
+                                Kegiatan mengunjungi makam para ulama dan wali Allah untuk mendoakan mereka serta mengambil pelajaran dari keteladanan mereka. Ini juga menjadi sarana memperkuat ikatan spiritual santri dengan sejarah Islam.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Start Col -->
+
+
+            </div>
+        </div>
+        <!-- End Row -->
+        </div>
+    </section>
+
+    <section id="showcase">
+        <div class="container-fluid right-position">
+            <!-- Start Row -->
+            <div class="row gradient-bg">
+                <div class="col-lg-12">
+                    <div class="showcase-text section-header text-center">
+                        <div>
+                            <h2 class="section-title">Album Santri</h2>
+                            <div class="desc-text mb-4">
+                                <p>Dokumentasi Kegiatan Pondok Pesantren merupakan galeri visual yang menampilkan berbagai kegiatan dan momen berharga yang terjadi di Pondok Pesantren. Di dalam album ini, setiap gambar dan foto mencerminkan semangat kebersamaan dan dedikasi santri dalam mengikuti kegiatan keagamaan, belajar, dan berinteraksi di lingkungan pesantren. Album ini tidak hanya sebagai dokumentasi, tetapi juga sebagai kenang-kenangan yang mengabadikan perjalanan spiritual dan pendidikan santri yang penuh makna.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- End Row -->
+            <!-- Start Row -->
+            <div class="row justify-content-center showcase-area">
+                <div class="col-lg-12 col-md-12 col-xs-12 pr-0">
+                    <div class="showcase-slider owl-carousel">
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/02.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/03.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/04.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/05.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/02.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/03.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/04.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/05.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="screenshot-thumb">
+                                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                                <div class="hover-content text-center">
+                                    <div class="fancy-table">
+                                        <div class="table-cell">
+                                            <div class="single-text">
+                                                <p>Icon , Web</p>
+                                                <h5>Redesign Slack</h5>
+                                            </div>
+                                            <div class="zoom-icon">
+                                                <a class="lightbox" href="img/showcase/01.jpg"><i class="lni-zoom-in"></i></a>
+                                                <a href="#"><i class="lni-link"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- End Row -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <!-- Container Starts -->
+        <div class="container mt-4">
+            <!-- Start Row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="contact-text section-header text-center">
+                        <div>
+                            <h2 class="section-title">Get In Touch</h2>
+                            <div class="desc-text">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+                                <p>eiusmod tempor incididunt ut labore et dolore.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- End Row -->
+            <!-- Start Row -->
+            <div class="row">
+                <!-- Start Col -->
+                <div class="col-lg-6 col-md-12">
+                    <form id="contactForm">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="name" name="name" placeholder="Name" required data-error="Please enter your name">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" placeholder="Subject" id="msg_subject" class="form-control" name="msg_subject" required data-error="Please enter your subject">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="email" name="email" placeholder="Email" required data-error="Please enter your Email">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" placeholder="Budget" id="budget" class="form-control" name="budget" required data-error="Please enter your Budget">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <textarea class="form-control" id="message" name="message" placeholder="Write Message" rows="4" data-error="Write your message" required></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                                <div class="submit-button">
+                                    <button class="btn btn-common" id="submit" type="submit">Submit</button>
+                                    <div id="msgSubmit" class="h3 hidden"></div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!-- End Col -->
+                <!-- Start Col -->
+                <div class="col-lg-1">
+
+                </div>
+                <!-- End Col -->
+                <!-- Start Col -->
+                <div class="col-lg-4 col-md-12">
+                    <div class="contact-img">
+                        <img src="img/contact/01.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+                <!-- End Col -->
+                <!-- Start Col -->
+                <div class="col-lg-1">
+                </div>
+                <!-- End Col -->
+
+            </div>
+            <!-- End Row -->
+        </div>
+    </section>
+
+
+
+    <!-- Footer Section Start -->
+    <footer>
+        <!-- Footer Area Start -->
+        <section id="footer-Content">
+            <div class="container">
+                <!-- Start Row -->
+                <div class="row">
+
+                    <!-- Start Col -->
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+
+                        <div class="footer-logo">
+                            <img src="img/ah-logo.png" alt="" width="200px">
+                        </div>
+                    </div>
+                    <!-- End Col -->
+                    <!-- Start Col -->
+                    <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+                        <div class="widget">
+                            <h3 class="block-title">Alamat</h3>
+                            <ul class="menu">
+                                <li><b>Alhalim 1</b> : Jl. Panglima Sudirman, Mentaos, Nglawak, Kec. Kertosono, Kabupaten Nganjuk, Jawa Timur 64315</li>
+                                <br>
+                                <li><b>Alhalim 2</b> : Mentaos, Nglawak, Kec. Kertosono, Kabupaten Nganjuk, Jawa Timur 64315</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+                        <div class="widget">
+                            <h3 class="block-title">Maps</h3>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.753664914901!2d112.08692437481652!3d-7.6017649924131865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78479f6056b3bf%3A0x3b8dacfcb78b5c8d!2sPondok%20Pesantren%20Al-Halim%20Miftahul&#39;Ula!5e0!3m2!1sid!2sid!4v1734339215625!5m2!1sid!2sid" width="350" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                        </div>
+                    </div>
+
+                    <!-- <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+                        <div class="widget">
+                            <h3 class="block-title">Download App</h3>
+                            <ul class="menu">
+                                <li><a href="#"> - Android App</a></li>
+                                <li><a href="#">- IOS App</a></li>
+                                <li><a href="#">- Windows App</a></li>
+                                <li><a href="#">- Play Store</a></li>
+                                <li><a href="#">- IOS Store</a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- End Col -->
+                    <!-- Start Col -->
+                    <!-- <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+                        <div class="widget">
+                            <h3 class="block-title">Subscribe Now</h3>
+                            <p>Appropriately implement calysts for change visa wireless catalysts for change. </p>
+                            <div class="subscribe-area">
+                                <input type="email" class="form-control" placeholder="Enter Email">
+                                <span><i class="lni-chevron-right"></i></span>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- End Col -->
+                </div>
+                <!-- End Row -->
+            </div>
+            <!-- Copyright Start  -->
+
+            <div class="copyright">
+                <div class="container">
+                    <!-- Star Row -->
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="site-info text-center">
+                                <p>Created with <i class="bi bi-heart-fill text-danger"></i> by <a href="https://www.instagram.com/doeljad" rel="nofollow">Doeljad</a></p>
+                            </div>
+
+                        </div>
+                        <!-- End Col -->
+                    </div>
+                    <!-- End Row -->
+                </div>
+            </div>
+            <!-- Copyright End -->
+        </section>
+        <!-- Footer area End -->
+
+    </footer>
+    <!-- Footer Section End -->
+
+
+    <!-- Go To Top Link -->
+    <a href="#" class="back-to-top">
+        <i class="bi bi-chevron-double-up"></i>
+    </a>
+
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="loader" id="loader-1"></div>
+    </div>
+    <!-- End Preloader -->
+
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+    <!-- Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+
+    <!-- Bootstrap -->
+
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Owl Carousel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+    <!-- jQuery Nav -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollto/2.1.3/jquery.scrollTo.min.js"></script>
+
+    <!-- Scrolling Nav -->
+
+    <script src="js/scrolling-nav.js"></script>
+    <!-- jQuery Easing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+
+    <!-- Nivo Lightbox -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/nivo-lightbox/1.3.1/nivo-lightbox.min.js"></script>
+
+    <!-- Magnific Popup -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+    <!-- Form Validator -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.98/jquery.form-validator.min.js"></script>
+
+    <!-- Contact Form Script (Replace if customized locally) -->
+    <script src="js/contact-form-script.js"></script>
+
+    <!-- Main Script (Replace if customized locally) -->
+    <script src="js/main.js"></script>
+
+
+</body>
+
+</html>
